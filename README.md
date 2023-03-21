@@ -19,13 +19,5 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ola-Mohamed&show_icons=true&locale=en&layout=compact" alt="OlaMohamed" />
-<br>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ola-Mohamed&show_icons=true&locale=en" alt="OlaMohamed" />
-</p>
 
-
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ola-Mohamed &show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />

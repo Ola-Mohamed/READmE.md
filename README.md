@@ -1,26 +1,16 @@
-<div align= "center"><h1>Hi there, I'm Ola Mohamed👋 </h1></div>
+<h1 align="center">Hi 👋, I'm Ola Mohamed</h1>
+<h3 align="center">An Embedded software Engineer</h3>
 
-- :computer: undergraduate computer engineer.
-- :mortar_board: Studied at Benha University - Shoubra branch.
-- :dizzy: Interested in Embedded system .
-- :cloud: Currently I'm a Embedded Software Trainee  in TechieShip Degree at **( Valeo)**.
+- 👨‍💻 All of my projects are available at [https://github.com/Ola-Mohamed?tab=repositories](https://github.com/Ola-Mohamed?tab=repositories)
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/cCGXQ2MOGG8SvXh03S/giphy.gif" width="100"/>
-</div>
+- 📫 How to reach me **olametwaly3@gmail.com**
 
+- 📄 Know about my experiences [https://www.linkedin.com/in/ola-mohamed-8ba11b16b/overlay/1635549383130/single-media-viewer/?profileId=ACoAAChrHE4Bpw_PuqxnkSg10THD733tRTqAV-U](https://www.linkedin.com/in/ola-mohamed-8ba11b16b/overlay/1635549383130/single-media-viewer/?profileId=ACoAAChrHE4Bpw_PuqxnkSg10THD733tRTqAV-U)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ola mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ola mohamed" height="30" width="40" /></a>
+</p>
 
-###  :mailbox: You can reach me via 
-<a href="https://www.linkedin.com/in/ola-mohamed-8ba11b16b/">
-    <img height="45" src="https://user-images.githubusercontent.com/47721226/224444323-8dbd5b01-3488-4572-88c8-93384dc2ef0e.png"/>
-</a>
-<a href="mailto:olametwaly3@gmail.com">
-    <img height="45" src="https://user-images.githubusercontent.com/47721226/224444372-4c84b0f3-0f16-4c86-b643-733020a379f0.png"/>
-</a>
-
----
-#### Programming Languages 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
